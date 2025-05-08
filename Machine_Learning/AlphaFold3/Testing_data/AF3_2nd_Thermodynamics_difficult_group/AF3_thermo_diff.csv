@@ -1,0 +1,21 @@
+﻿Label,Data,"Interface 
+-RMSD (nm)",BSA 150,"Ligand 
+- RMSD (nm)",Results,Complexes
+Near-native,1H3E,0.468,1.785,0.999,1,Complex 1
+Near-native,1H3E,0.837,5.93,1.678,1,Complex 2
+Near-native,1H3E,0.695,4.505,1.447,1,Complex 3
+Near-native,1H3E,0.53,2.774,1.07,1,Complex 4
+Near-native,1U0B,0.3025,4.721,0.4305,1,Complex 1
+Near-native,1U0B,0.333,4.224,0.646,1,Complex 2
+Near-native,1U0B,0.231,2.397,0.395,1,Complex 3
+Near-native,1U0B,0.2075,0.9205,0.397,1,Complex 4
+Near-native,1U0B,0.261,1.758,0.4845,1,Complex 5
+Near-native,2IPY,0.252,2.939,0.309,1,Complex 1
+Near-native,2IPY,0.2795,2.3605,0.4595,1,Complex 2
+Near-native,2IPY,0.3285,2.4695,0.493,1,Complex 3
+Near-native,2IPY,0.2925,1.2715,0.356,1,Complex 4
+Non-native,2V3C,0.5995,2.549,1.1365,0,Complex 1
+Non-native,2V3C,0.482,4.993,1.472,0,Complex 2
+Near-native,2V3C,0.64,2.31,0.825,1,Complex 3
+Near-native,2V3C,0.556,6.384,0.857,1,Complex 4
+Near-native,2V3C,0.643,4.608,1.287,1,Complex 5
