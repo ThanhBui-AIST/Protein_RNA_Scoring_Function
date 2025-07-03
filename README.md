@@ -6,4 +6,4 @@ This approach distinguish the correct structure among many docking poses generat
 
 This program takes the input of protein-RNA complex  and subsequently performs molecular dynamics (MD) simulation in order to estimate the stability of the structure. The machine learning classified model predicted structure as either near-native or non-native poses.
 
-![graphical_abstract](https://github.com/user-attachments/assets/774087da-4b43-4351-8af7-92e30af37d55)
+![graphical_abstract](https://github.com/user-attachments/assets/7e497fef-2d2d-4ae3-b08c-6bc90a6b7275)
