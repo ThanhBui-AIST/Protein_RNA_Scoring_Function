@@ -37,7 +37,7 @@ ewald_rtol          =  1e-5
 optimize_fft        =  yes
 
 ;Temperature coupling
-Tcoupl              =  berendsen
+Tcoupl              =  no
 tc-grps             =  system
 tau_t               =  2.0 
 ref_t               =  298 
