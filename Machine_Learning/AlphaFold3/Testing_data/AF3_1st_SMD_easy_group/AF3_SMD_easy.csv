@@ -1,0 +1,28 @@
+﻿Label,Data,Dissociation ,Displacement ,"Ligand 
+- RMSD (nm)","Interface 
+-RMSD (nm)",BSA 150,Results,Complexes
+Near-native,1H4S,182.6,0.796,1.092,0.401,-13.586,1,Complex 1
+Near-native,1H4S,197.2,0.727,0.994,0.344,-13.851,1,Complex 2
+Near-native,1H4S,193,0.722,1.053,0.384,-15.042,1,Complex 3
+Near-native,1H4S,193.7,0.825,1.137,0.418,-12.053,1,Complex 4
+Near-native,1H4S,190.2,0.78,1.07,0.4,-14.8,1,Complex 5
+Near-native,1K8W,182.4,0.8705,1.2345,0.5375,-7.7945,1,Complex 1
+Near-native,1K8W,203.4,0.7615,1.0755,0.5115,-6.8135,1,Complex 2
+Near-native,1K8W,214.45,0.755,1.17,0.5715,-6.0095,1,Complex 3
+Non-native,1K8W,62.25,4.2535,4.3995,2.0295,-15.8425,0,Complex 4
+Non-native,1K8W,51.5,2.441,5.092,2.146,-14.295,0,Complex 5
+Near-native,1KOG,170.1,0.845,1.169,0.428,-11.659,1,Complex 1
+Near-native,1KOG,178.9,0.785,1.09,0.3915,-10.3115,1,Complex 2
+Near-native,1KOG,177.7,0.748,1.021,0.419,-10.403,1,Complex 3
+Near-native,1KOG,158.5,0.953,1.138,0.468,-10.973,1,Complex 4
+Near-native,1KOG,149.35,1.0125,1.2845,0.5545,-12.3,1,Complex 5
+Near-native,1Q2R,163.4,0.8585,1.194,0.4745,-11.8025,1,Complex 1
+Near-native,1Q2R,200.7,0.745,1.135,0.449,-8.773,1,Complex 2
+Near-native,1Q2R,176.8,0.717,1.073,0.456,-6.922,1,Complex 3
+Near-native,1Q2R,222.8,0.488,0.797,0.342,-5.542,1,Complex 4
+Near-native,1Q2R,157.8,0.697,1.128,0.456,-10.034,1,Complex 5
+Near-native,2GJW,356.8,0.51,0.806,0.407,-2.681,1,Complex 1
+Near-native,2GJW,495.2,0.529,0.816,0.408,-2.888,1,Complex 2
+Near-native,2GJW,455.4,0.481,0.754,0.384,-1.2,1,Complex 3
+Near-native,2GJW,429.2,0.478,0.745,0.402,-1.26,1,Complex 4
+Near-native,2GJW,438,0.456,0.72,0.387,-3.453,1,Complex 5
