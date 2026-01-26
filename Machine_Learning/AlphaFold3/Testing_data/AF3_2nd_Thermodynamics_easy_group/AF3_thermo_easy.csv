@@ -1,0 +1,25 @@
+﻿Label,Data,"Interface 
+-RMSD (nm)",BSA 150,"Ligand 
+- RMSD (nm)",Results,Complexes
+Near-native,1H4S,0.252,4.502,0.575,1,Complex 1
+Near-native,1H4S,0.27,6.026,0.655,1,Complex 2
+Near-native,1H4S,0.254,1.635,0.729,1,Complex 3
+Near-native,1H4S,0.242,4.025,0.557,1,Complex 4
+Near-native,1H4S,0.315,3.805,0.827,1,Complex 5
+Near-native,1K8W,0.295,2.175,0.367,1,Complex 1
+Near-native,1K8W,0.219,2.458,0.304,1,Complex 2
+Near-native,1K8W,0.25,3.941,0.542,1,Complex 3
+Near-native,1KOG,0.17,1.546,0.336,1,Complex 1
+Near-native,1KOG,0.176,1.968,0.318,1,Complex 2
+Near-native,1KOG,0.221,3.728,0.415,1,Complex 3
+Near-native,1KOG,0.163,2.085,0.301,1,Complex 4
+Near-native,1Q2R,0.239,3.989,0.412,1,Complex 1
+Near-native,1Q2R,0.237,0.891,0.413,1,Complex 2
+Near-native,1Q2R,0.203,3.359,0.416,1,Complex 3
+Near-native,1Q2R,0.244,2.45,0.375,1,Complex 4
+Near-native,1Q2R,0.233,2.11,0.423,1,Complex 5
+Near-native,2GJW,0.207,1.045,0.402,1,Complex 1
+Near-native,2GJW,0.16,0.829,0.384,1,Complex 2
+Near-native,2GJW,0.193,1.041,0.385,1,Complex 3
+Near-native,2GJW,0.206,1.265,0.313,1,Complex 4
+Near-native,2GJW,0.162,1.835,0.27,1,Complex 5
